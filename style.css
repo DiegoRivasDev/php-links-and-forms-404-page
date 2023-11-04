@@ -1,0 +1,44 @@
+body {
+	background-image: url("images/fondo.jpg");
+	background-size: cover;
+	background-color: #cccccc;
+	}
+
+
+h1 {
+	text-align: right;
+	margin: 1cm;
+	
+	color: #ffffff;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 30px;
+	-webkit-text-stroke: 1px rgb(0, 0, 0);
+	
+}
+
+	h2 {
+
+		color: #d7ebf1;
+		font-size: 20px;
+		text-align: left;
+	}
+
+
+p {
+	color: rgb(255, 31, 31);
+	font-size: 20px;
+		text-align: left;
+}
+
+
+
+table {
+
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 25px;
+    position: absolute;
+	top: 35%; 
+	left: 88%;
+}
+
